@@ -1,3 +1,7 @@
+#Programa que dibuja una animación de una espiral de colores con la tortuga de Python.
+#Autor: Aldo Gonzalez Vazquez
+#FEcha: 05/09/2024
+
 from turtle import *
 import colorsys
 
