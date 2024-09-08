@@ -1,5 +1,6 @@
 #Programa que dibuja una animación de una espiral de colores con la tortuga de Python.
 #Autor: Aldo Gonzalez Vazquez
+#Version: 1.0
 #FEcha: 05/09/2024
 
 from turtle import *
